@@ -1,8 +1,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&hide_border=true&theme=onedark&username=exa18" height="150" alt="languages graph"  /><br /><br />
-  <img src="https://github-profile-trophy.vercel.app/?username=exa18&margin-w=16&margin-h=16&theme=onedark&column=4&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&hide_border=true&theme=onedark&username=exa18" height="150" alt="languages graph"  /><br /><br />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=exa18&margin-w=16&margin-h=16&theme=onedark&column=4&no-frame=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
